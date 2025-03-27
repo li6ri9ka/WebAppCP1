@@ -1,0 +1,17 @@
+.about {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    background: white;
+}
+
+.about-image {
+    width: 50%;
+    border-radius: 10px;
+    margin-left: auto;
+}
+
+.about-info {
+    flex: 1;
+    text-align: left;
+}

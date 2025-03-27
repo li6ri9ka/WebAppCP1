@@ -1,0 +1,17 @@
+.rental {
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    background: white;
+}
+
+.rental-image {
+    width: 50%;
+    border-radius: 10px;
+    margin-right: 1rem;
+}
+
+.rental-info {
+    flex: 1;
+    text-align: left;
+}
